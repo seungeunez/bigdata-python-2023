@@ -111,3 +111,6 @@
     - 환경관련 데이터 분석
 
 <img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling07.png' width=700 alt='미세먼지당 산화도'>
+
+## 17일차
+- 파이썬 데이터분석 실습
