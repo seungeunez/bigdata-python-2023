@@ -63,7 +63,7 @@
 
 <img src="https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling01.png" width="700" alt="크롬버전">
 
-<img src="">
+<img src="https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling02.png" width="700" alt="크롬드라이버 최신판">
 
 
 
@@ -75,6 +75,8 @@
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 인스타그램 크롤링
 
+<img src="">
+<img src="">
 
 ## 11일차
 - 파이썬 데이터분석 실습
