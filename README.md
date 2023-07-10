@@ -61,6 +61,11 @@
         - 벅스 인기차트 TOP100 csv 저장
     - 코로나 중국 관광객 (Chapter 04)
 
+<img src="https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling01.png" width="700" alt="크롬버전">
+
+<img src="">
+
+
 
 ## 9일차
 - 파이썬 데이터분석 실습
