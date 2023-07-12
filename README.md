@@ -120,11 +120,10 @@
 
 <img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling07.png' width=700 alt='미세먼지당 산화도'>
 
-## 17일차
+## 17일차, 18일차
 - 파이썬 데이터분석 실습
     - 주식시세 예측분석(시계열데이터)
+    - 애플주가 예측
 
-<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling08.png' width=700 alt=''>
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling08.png' width=700 alt='삼성전자 주가'>
 
-## 18일차
-- 파이썬 데이터분석 실습
