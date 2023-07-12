@@ -114,3 +114,10 @@
 
 ## 17일차
 - 파이썬 데이터분석 실습
+    - 주식시세 예측분석(시계열데이터)
+
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling08.png' width=700 alt=''>
+
+## 18일차
+- 파이썬 데이터분석 실습
+    - 
