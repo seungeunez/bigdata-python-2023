@@ -89,6 +89,8 @@
         - 스타벅스 웹사이트 매장 지역검색 셀레니움 데이터 수집
         - 서울 열린데이터 광장 행정구역, 인구, 사업체 데이터 수집
 
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling06.png' width=700 alt='서울시 사업체수 분포도'>
+
 
 ## 13일차
 - 파이썬 데이터분석 실습
