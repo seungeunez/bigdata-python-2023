@@ -76,12 +76,17 @@
     - 제주도 핫플레이스 인스타그램 크롤링
 
 <img src="https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
-<img src="">
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling04.png' width=700 alt='크롤링 결과'>
+
 
 ## 11일차
 - 파이썬 데이터분석 실습
     - 제주도 핫플레이스 시각화
     - 워드클라우드
+
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling05.png' width=700 alt='워드클라우드 결과'>
+
+
 
 ## 12일차 
 - 파이썬 데이터분석 실습
@@ -89,7 +94,7 @@
         - 스타벅스 웹사이트 매장 지역검색 셀레니움 데이터 수집
         - 서울 열린데이터 광장 행정구역, 인구, 사업체 데이터 수집
 
-<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling06.png' width=700 alt='서울시 사업체수 분포도'>
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling06.png' width=700 alt='서울시 사업체수 분포도 (스타벅스)'>
 
 
 ## 13일차
