@@ -76,6 +76,7 @@
     - 제주도 핫플레이스 인스타그램 크롤링
 
 <img src="https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling03.gif" width="700" alt="셀레니움 크롤링">
+
 <img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling04.png' width=700 alt='크롤링 결과'>
 
 
@@ -127,4 +128,3 @@
 
 ## 18일차
 - 파이썬 데이터분석 실습
-    - 
