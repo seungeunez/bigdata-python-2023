@@ -127,3 +127,12 @@
 
 <img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling08.png' width=700 alt='삼성전자 주가'>
 
+
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling09.png' width=700 alt='애플 주가'>
+
+
+## 20일차
+- 파이썬 데이터분석 실습
+    - 영화리뷰 워드클라우드 시각화
+
+<img src='https://github.com/seungeunez/bigdata-python-2023/blob/main/images/crawling10.png' width=700 alt='영화리뷰 워드클라우드'>
